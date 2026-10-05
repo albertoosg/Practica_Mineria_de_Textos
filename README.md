@@ -1,2 +1,2 @@
-# Pr-ctica-Miner-a-de-Textos
+# Practica-Mineria-de-Textos
 Práctica final de la asignatura de Minería de Textos
